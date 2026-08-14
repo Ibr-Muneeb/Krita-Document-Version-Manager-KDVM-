@@ -1,0 +1,14 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+This project is licensed under the GNU General Public License v3.0 or later
+(GPL-3.0-or-later), consistent with the SPDX headers in the source files.
+
+The full, official license text (required for legal use) is available at:
+https://www.gnu.org/licenses/gpl-3.0.txt
+
+Copy that text into this file before publishing the repository — do not
+publish a repo claiming a GPL license without the actual license text
+present, as GitHub's license detector and most contributors expect it.
+
+Copyright (C) Cesar Velazquez <cesarve@gmail.com>

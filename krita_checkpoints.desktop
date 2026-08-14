@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=krita_checkpoints
+X-Python-2-Compatible=false
+X-Krita-Manual=README.md
+Name=Krita Checkpoints
+Comment=Lightweight, checkpoint-based version history for Krita documents.
