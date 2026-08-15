@@ -5,7 +5,7 @@ A lightweight, checkpoint-based version history plugin for [Krita](https://krita
 Krita has no built-in way to step back through a document's history the way `git log` lets you step through a codebase. This plugin adds that: one click saves a timestamped, thumbnailed snapshot of the current `.kra` file; the history panel lets you browse, restore, rename, or delete any snapshot without leaving Krita.
 
 
-![demo](docs\demo.gif)
+![demo](docs/demo.gif)
 
 ## Why this exists
 
