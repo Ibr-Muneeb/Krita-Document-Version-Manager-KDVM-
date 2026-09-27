@@ -69,5 +69,3 @@ krita_checkpoints/
 
 GPL-3.0-or-later — see [LICENSE](LICENSE).
 
----
-*Originally forked and restructured from an earlier prototype; cleaned up for public release (normalized line endings, removed dead code, fixed two UI state bugs in the log-view toggle and the delete-checkpoint cancel path).*
